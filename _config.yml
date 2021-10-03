@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Market Research
+description: Course resources
+author: Prof. Dr. Jan Kirenz
+github:
+  is_project_page: false
