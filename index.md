@@ -20,6 +20,7 @@ Content we will cover in this course:
 
 **Slides**
 
+
 Lecture|Topic|Slides
 ---|---|---
 01|Introduction to data-driven decision making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L01_0_analytics_intro.pdf)
