@@ -22,10 +22,11 @@ Content we will cover in this course:
 
 Lecture|Topic|Slides
 ---|---|---
-01|Introduction to data-driven decision making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L01_0_analytics_intro.pdf)  
+01|Introduction to data-driven decision making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L01_0_analytics_intro.pdf)
 02|Data science lifecycle 1|[L02_0_dsl_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L02_0_dsl_intro.pdf)  
 02|Data science lifecycle 2|[L02_1_dsl_plan.pdf](https://github.com/kirenz/market-research/blob/main/slides/L02_1_dsl_plan.pdf)  
 03|Consumer Decision Journey|[L03_0_google_model.pdf](https://github.com/kirenz/market-research/blob/main/slides/L03_0_google_model.pdf)  
+
 
 
 <!--
