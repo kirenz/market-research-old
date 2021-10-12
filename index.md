@@ -25,9 +25,8 @@ Lecture|Topic|Slides
 01|Introduction to data-driven decision making|[L01_0_analytics_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L01_0_analytics_intro.pdf)  
 02|Data science lifecycle 1|[L02_0_dsl_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L02_0_dsl_intro.pdf)  
 02|Data science lifecycle 2|[L02_1_dsl_plan.pdf](https://github.com/kirenz/market-research/blob/main/slides/L02_1_dsl_plan.pdf)  
-
-<!--
 03|Consumer Decision Journey|[L03_0_google_model.pdf](https://github.com/kirenz/market-research/blob/main/slides/L03_0_google_model.pdf)  
+<!--
 04|Jobs to be done|NA
 05|Clustering|[L05_0_clustering.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_0_clustering.pdf)  
 05|Clustering|[L05_1_clustering_k_means.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_1_clustering_k_means.pdf)  
