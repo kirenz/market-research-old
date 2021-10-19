@@ -6,6 +6,8 @@ Content we will cover in this course:
 - 	Data science lifecycle
 - 	Consumer Decision Journey
 - 	Jobs to be done
+
+
 - 	Clustering
 - 	Market analysis
 - 	Regression models
