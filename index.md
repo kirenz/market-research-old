@@ -8,6 +8,7 @@ Content we will cover in this course:
 - 	Jobs to be done
 
 
+
 - 	Clustering
 - 	Market analysis
 - 	Regression models
