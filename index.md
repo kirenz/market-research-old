@@ -30,8 +30,7 @@ Lecture|Topic|Slides | Resources
 02|Data science lifecycle 1|[L02_0_dsl_intro.pdf](https://github.com/kirenz/market-research/blob/main/slides/L02_0_dsl_intro.pdf)  |
 02|Data science lifecycle 2|[L02_1_dsl_plan.pdf](https://github.com/kirenz/market-research/blob/main/slides/L02_1_dsl_plan.pdf)  |
 03|Consumer Decision Journey|[L03_0_google_model.pdf](https://github.com/kirenz/market-research/blob/main/slides/L03_0_google_model.pdf) |  
-04|Jobs to be done| [L04_0_Jobs.pdf](https://github.com/kirenz/market-research/blob/main/slides/L04_0_Jobs.pdf)  |
-04|Jobs to be done book| [L04_1_Jobs.pdf](https://github.com/kirenz/market-research/blob/main/slides/L04_1_Jobs_book.pdf) |  
+04|Jobs to be done| [L04_0_Jobs.pdf](https://github.com/kirenz/market-research/blob/main/slides/L04_0_Jobs.pdf)  | [Book](https://github.com/kirenz/market-research/blob/main/slides/L04_1_Jobs_book.pdf)
 05 | Marktkennzahlen | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1kFW8d_cSzKzGyKYgsWNlRG6Wubf8NcpO3Y09P6-yWec/edit?usp=sharing) |
 
 
