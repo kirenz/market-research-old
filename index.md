@@ -32,7 +32,7 @@ Lecture|Topic|Slides | Resources
 03|Consumer Decision Journey|[L03_0_google_model.pdf](https://github.com/kirenz/market-research/blob/main/slides/L03_0_google_model.pdf) |  
 04|Jobs to be done| [L04_0_Jobs.pdf](https://github.com/kirenz/market-research/blob/main/slides/L04_0_Jobs.pdf)  | [Book](https://github.com/kirenz/market-research/blob/main/slides/L04_1_Jobs_book.pdf)
 05 | Marktkennzahlen | [marktkennzahlen.pdf](https://drive.google.com/file/d/1CUGSZizxWyp58Cg86sHWfngwaaS0YMS9/view?usp=sharing) |[Case](https://drive.google.com/file/d/1E7bEnbwc5ixaIy2pdHCOJp4Llvh2UL6S/view?usp=sharing), [Table](https://docs.google.com/spreadsheets/d/1kFW8d_cSzKzGyKYgsWNlRG6Wubf8NcpO3Y09P6-yWec/edit?usp=sharing), [Table edit](https://docs.google.com/spreadsheets/d/1sD_uxTtVebIS_FWAY9c6C1_AfGSm9HSwndCKuGul0Jk/edit?usp=sharing) |
-05|Clustering intro|[L05_0_clustering.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_0_clustering.pdf)  | 
+05|Clustering intro|[L05_0_clustering.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_0_clustering.pdf)  | [Example](https://docs.google.com/spreadsheets/d/1cRrsCSvJonwObtQGg_MURQlglHJIW9wl3lhd1Xhs99k/edit?usp=sharing)
 05|Clustering k-means|[L05_1_clustering_k_means.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_1_clustering_k_means.pdf)  |
 05|Clustering hierarchical|[L05_2_clustering_hierarchical.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_2_clustering_hierarchical.pdf) | [Tutorial](https://kirenz.github.io/clustering/hierarchisch.html)
 
