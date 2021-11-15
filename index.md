@@ -7,10 +7,9 @@ Content we will cover in this course:
 - 	Consumer Decision Journey
 - 	Jobs to be done
 - 	Market analysis
-
-
-
 - 	Clustering
+
+
 - 	Regression models
 - 	Conjoint Analysis
 - 	Decision trees
