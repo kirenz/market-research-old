@@ -8,12 +8,11 @@ Content we will cover in this course:
 - 	Jobs to be done
 - 	Market analysis
 - 	Clustering
-
-
 - 	Regression models
-- 	Conjoint Analysis
+- 	
 - 	Decision trees
 - 	K-nearest-neighbour
+- 	Conjoint Analysis
 - 	Association Rule Mining
 - 	Deep Learning
 
