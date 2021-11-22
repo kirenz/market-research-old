@@ -9,7 +9,8 @@ Content we will cover in this course:
 - 	Market analysis
 - 	Clustering
 - 	Regression models
-- 	
+
+
 - 	Decision trees
 - 	K-nearest-neighbour
 - 	Conjoint Analysis
