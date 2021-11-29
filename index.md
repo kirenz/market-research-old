@@ -35,7 +35,7 @@ Lecture|Topic|Slides | Resources
 05|Clustering intro|[L05_0_clustering.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_0_clustering.pdf)  | [Example](https://docs.google.com/spreadsheets/d/1cRrsCSvJonwObtQGg_MURQlglHJIW9wl3lhd1Xhs99k/edit?usp=sharing)
 05|Clustering k-means|[L05_1_clustering_k_means.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_1_clustering_k_means.pdf)  |
 05|Clustering hierarchical|[L05_2_clustering_hierarchical.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_2_clustering_hierarchical.pdf) | [Tutorial](https://kirenz.github.io/clustering/hierarchisch.html)
-06|AB-Testing |[L05_2_clustering_hierarchical.pdf](https://docs.google.com/presentation/d/1sXRP142xVtZ_65Dp-sadd2eNJhK0P8OtU7mH83XIupU/export/pdf) | [Netflix Techblog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+06|A/B-Testing |[A/B Testing @ Netflix](https://docs.google.com/presentation/d/1sXRP142xVtZ_65Dp-sadd2eNJhK0P8OtU7mH83XIupU/export/pdf) | [Netflix Techblog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
 
 
 
