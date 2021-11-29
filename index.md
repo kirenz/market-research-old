@@ -8,8 +8,9 @@ Content we will cover in this course:
 - 	Jobs to be done
 - 	Market analysis
 - 	Clustering
--  A/B-Testing
+-  A/B-Testing  
 
+<br>
 
 - 	Association Rule Mining
 - 	Regression models
