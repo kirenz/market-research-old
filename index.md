@@ -37,7 +37,7 @@ Lecture|Topic|Slides | Resources
 05|Clustering k-means|[L05_1_clustering_k_means.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_1_clustering_k_means.pdf)  |
 05|Clustering hierarchical|[L05_2_clustering_hierarchical.pdf](https://github.com/kirenz/market-research/blob/main/slides/L05_2_clustering_hierarchical.pdf) | [Tutorial](https://kirenz.github.io/clustering/hierarchisch.html)
 06|A/B-Testing |[A/B Testing @ Netflix](https://docs.google.com/presentation/d/1sXRP142xVtZ_65Dp-sadd2eNJhK0P8OtU7mH83XIupU/export/pdf) | [Netflix Techblog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481), [Bsp. Klausur](https://drive.google.com/file/d/1tNB3Suyctc-nV4cptYtAo0w5cTwTi2O9/view?usp=sharing)
-07|Conjoint Analysis |[Intro](https://docs.google.com/presentation/d/1lnMKcu65JFh2t1izoD-IKxfJ_r_rLd6nJgoKSpDF_oo/export/pdf), [Erklärung](https://drive.google.com/file/d/1W-pvSy-xxP__MReBs7t8MUMJkEamjOTZ/view?usp=sharing) | [Excel Beispiel](https://github.com/kirenz/python-notebooks/blob/main/conjoint/conjoint-bluetooth.xlsx)
+07|Conjoint Analysis |[Intro](https://docs.google.com/presentation/d/1lnMKcu65JFh2t1izoD-IKxfJ_r_rLd6nJgoKSpDF_oo/export/pdf), [Erklärung](https://drive.google.com/file/d/1W-pvSy-xxP__MReBs7t8MUMJkEamjOTZ/view?usp=sharing) | [Excel Beispiel](https://github.com/kirenz/python-notebooks/blob/main/conjoint/conjoint-bluetooth.xlsx), [Regression](https://github.com/kirenz/python-notebooks/blob/main/conjoint/conjoint.ipynb)
 
 
 <!--
