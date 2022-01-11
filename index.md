@@ -11,13 +11,12 @@ Content we will cover in this course:
 -  A/B-Testing  
 - 	Conjoint Analysis
 
-<br>
-
+<!--
 - 	Association Rule Mining
 - 	Decision trees
 - 	K-nearest-neighbour
 - 	Deep Learning
-
+-->
 
 ---
 
