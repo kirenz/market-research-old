@@ -14,7 +14,6 @@ Content we will cover in this course:
 <br>
 
 - 	Association Rule Mining
-- 	Regression models
 - 	Decision trees
 - 	K-nearest-neighbour
 - 	Deep Learning
