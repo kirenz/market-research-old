@@ -3,7 +3,7 @@
 Content we will cover in this course:
 
 - 	Introduction to data-driven decision making
-- 	Data science lifecycle
+- 	*(Data science lifecycle) nicht prüfungsrelevant*
 - 	Consumer Decision Journey
 - 	Jobs to be done
 - 	Market analysis
